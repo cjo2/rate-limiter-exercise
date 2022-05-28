@@ -1,3 +1,3 @@
-module clearbit-exercise
+module rate-limiter-exercise
 
 go 1.17
